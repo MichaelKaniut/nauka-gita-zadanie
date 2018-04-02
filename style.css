@@ -16,16 +16,19 @@ body {
 }
 .main {
   max-width: 700px;
-  background: rgb(240, 240, 245);
+  background: rgb(179, 179, 204);
 }
 .titles h1 {
   text-transform: uppercase;
   text-align: center;
+  padding-top: 5px;
 }
 .titles h3 {
   text-align: left;
+  padding-left: 15px;
 }
 p {
   text-align: justify;
   color: rgb(255, 255, 255);
+  padding: 20px;
 }
